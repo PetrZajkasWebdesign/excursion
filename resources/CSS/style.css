@@ -1,6 +1,7 @@
 body {
     width: auto;
     margin: 0 auto;
+    padding-inline: 20px;
     box-sizing: content-box;
     background-color: black;
     text-align: center;
@@ -22,6 +23,7 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 p {
